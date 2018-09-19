@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:400,700&subset=latin-ext');
+
+body {
+   font-family: Lato, serif;
+   color: rgba(0, 0, 0, 0.80);
+}
+
+h1 {
+   text-align: center;
+   font-size: 1.5em;
+   margin-bottom: 2em;
+}
+
+h2 {
+   font-size: 1.2em;
+   margin-top: 2em;
+}
+
+p, ul, blockquote {
+   line-height: 1.5;
+}
+
+div {
+   max-width: 30em;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+blockquote {
+   font-style: italic;
+}
+
+figcaption {
+   text-align: center;
+   color: rgba(0, 0, 0, 0.80);
+   font-style: italic;
+}
+
+img {
+   max-width: 100%;
+}
